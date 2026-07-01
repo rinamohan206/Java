@@ -59,5 +59,3 @@ Output
 
 Author
 RinaMohan
-
-Rinamohan
